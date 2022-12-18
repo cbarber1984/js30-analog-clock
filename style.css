@@ -30,11 +30,25 @@
       0 0 10px rgba(0,0,0,0.2);
   }
 
+  .digital-clock {
+    margin: 60px auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgba(255, 0, 0, 0.6);
+    color: white;
+    font-size: 4rem;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgba(0,0,0,0.4);
+    
+  }
+
   .clock-face {
     position: relative;
     width: 100%;
     height: 100%;
     transform: translateY(-3px); /* account for the height of the clock hands */
+    
   }
 
   .hand {
