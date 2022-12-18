@@ -1,6 +1,7 @@
 # JS30 Clock #
 
 ## Check It Out! ##
+My finished clock is deployed [here!](https://cbarber1984.github.io/js30-analog-clock/)
 
 ## Objective: ##
 - Deepen understanding of JavaScript concepts by building an analog clock
